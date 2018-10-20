@@ -1,7 +1,7 @@
 **UNDER DEVELOPMENT**
 
-A barebones to-do app for Android. Edits a single, human-readable text file.
-Sync it to your computer by putting the file in Dropbox (or the cloud service
-of your choice). Works with the [Linux desktop app].
+A barebones to-do app for Android. Stores your to-do items in a single,
+human-readable text file. Syncing across all your devices is as easy as putting
+the file in Dropbox. Works with the [Linux desktop app].
 
 [Linux desktop app]: https://github.com/iafisher/todo-desktop
